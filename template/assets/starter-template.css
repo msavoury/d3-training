@@ -1,7 +1,14 @@
 body {
-    padding-top: 30px;
+    padding-top: 20px;
 }
 .starter-template {
-    padding: 40px 15px;
+    padding: 20px 15px 15px 20px;
     text-align: center;
+}
+
+#main {
+    text-align:center;
+}
+svg {
+    border: 1px solid #eee;
 }
