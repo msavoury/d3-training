@@ -1,0 +1,53 @@
+[
+  {
+    "name" : "Alabama",
+    "lastTitle": "2015",
+    "numTitles": 25
+  },
+  {
+    "name" : "Tennessee",
+    "lastTitle": "1998",
+    "numTitles": 13
+  },
+  {
+    "name" : "Georgia",
+    "lastTitle": "2005",
+    "numTitles": 12
+  },
+  {
+    "name" : "LSU",
+    "lastTitle": "2011",
+    "numTitles": 11
+  },
+  {
+    "name" : "Florida",
+    "lastTitle": "2008",
+    "numTitles": 8
+  },
+  {
+    "name" : "Auburn",
+    "lastTitle": "2013",
+    "numTitles": 8
+  },
+  {
+    "name" : "Ole Miss",
+    "lastTitle": "1963",
+    "numTitles": 6
+  },
+  {
+    "name" : "Kentucky",
+    "lastTitle": "1976",
+    "numTitles": 2
+  },
+  {
+    "name" : "Mississippi State",
+    "lastTitle": "1941",
+    "numTitles": 1
+  },
+  {
+    "name" : "Arkansas",
+    "lastTitle": "1941",
+    "numTitles": 1
+  },
+  {"data":" Arkansas	Never	0	4 Missouri	Never	0	2 South Carolina	Never	0	1 Texas A&M	Never	0	0 Vanderbilt	Never	0	0"}
+]
